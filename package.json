@@ -1,0 +1,12 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node/dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Kinderknech",
+  "license": "ISC",
+  "description": ""
+}
